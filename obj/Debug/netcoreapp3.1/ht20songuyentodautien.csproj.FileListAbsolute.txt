@@ -1,0 +1,13 @@
+C:\LN\ht20songuyentodautien\bin\Debug\netcoreapp3.1\ht20songuyentodautien.exe
+C:\LN\ht20songuyentodautien\bin\Debug\netcoreapp3.1\ht20songuyentodautien.deps.json
+C:\LN\ht20songuyentodautien\bin\Debug\netcoreapp3.1\ht20songuyentodautien.runtimeconfig.json
+C:\LN\ht20songuyentodautien\bin\Debug\netcoreapp3.1\ht20songuyentodautien.runtimeconfig.dev.json
+C:\LN\ht20songuyentodautien\bin\Debug\netcoreapp3.1\ht20songuyentodautien.dll
+C:\LN\ht20songuyentodautien\bin\Debug\netcoreapp3.1\ht20songuyentodautien.pdb
+C:\LN\ht20songuyentodautien\obj\Debug\netcoreapp3.1\ht20songuyentodautien.csprojAssemblyReference.cache
+C:\LN\ht20songuyentodautien\obj\Debug\netcoreapp3.1\ht20songuyentodautien.AssemblyInfoInputs.cache
+C:\LN\ht20songuyentodautien\obj\Debug\netcoreapp3.1\ht20songuyentodautien.AssemblyInfo.cs
+C:\LN\ht20songuyentodautien\obj\Debug\netcoreapp3.1\ht20songuyentodautien.csproj.CoreCompileInputs.cache
+C:\LN\ht20songuyentodautien\obj\Debug\netcoreapp3.1\ht20songuyentodautien.dll
+C:\LN\ht20songuyentodautien\obj\Debug\netcoreapp3.1\ht20songuyentodautien.pdb
+C:\LN\ht20songuyentodautien\obj\Debug\netcoreapp3.1\ht20songuyentodautien.genruntimeconfig.cache
